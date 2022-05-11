@@ -27,10 +27,10 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🌱 I'm currently learning
 
-- Kotlin
+- Micro Frontends
 - DevOps methodologies
-- React Context API
-- Styled Components  
+- Microcontroller programming
+- C programming language
 
 ## 💼 Technical Skills
 

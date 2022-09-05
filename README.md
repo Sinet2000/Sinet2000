@@ -21,9 +21,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- Wordpress WooCommerce Project
-- Improving my Android on Kotlin development skills
-- Some projects on my work
+- Blockchain decentralized car pooling app
 
 ## 🌱 I'm currently learning
 

@@ -27,10 +27,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🌱 I'm currently learning
 
-- Micro Frontends
-- DevOps methodologies
-- Microcontroller programming
-- C programming language
+- Solidity
+- Blockchain technology
+- Advanced cryptography
 
 ## 💼 Technical Skills
 

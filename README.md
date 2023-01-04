@@ -21,13 +21,11 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- Blockchain decentralized car pooling app
+- AI Application in Robotics (Robot with Orange Pi powered with ML)
 
 ## 🌱 I'm currently learning
 
-- Solidity
-- Blockchain technology
-- Advanced cryptography
+- Machine Learning
 
 ## 💼 Technical Skills
 

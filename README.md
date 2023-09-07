@@ -3,21 +3,22 @@
   <img src="https://user-images.githubusercontent.com/59967050/146984060-b5abf052-16dc-492d-bd84-3b696305511e.png" alt="my banner">
 </p>
 
-<h3 align="center">
-Hi there, I'm Nikita Nikitins 👋
-</h3>
-
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻!
+👨‍💻 Full-Stack Developer | First love: C++ & C# 🚀
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+🔨 **Backend**: .NET / PLSQL / Flask
+🧪 **Testing**: xUnit / FluentAssertions / Selenium WebDriver / Moq
+🖌️ **Frontend**: Angular / Blazor / React.js
+🚀 **DevOps**: Docker / GitHub Actions / Azure
+🗃️ **Databases**: MSSQL / MySQL / PostgreSQL / Elasticsearch / Oracle
+📊 **Data**: pandas / SciPy / NumPy / Matplotlib
+🧠 **Machine Learning**: TensorFlow / PyTorch / OpenCV / Scikit-learn
+🏛️ **Architecture**: MVC / MVVM / Clean Architecture / Microservices / SPA / TDD / DDD / CQRS
+📱 **Mobile Development**: Android (Java & Kotlin)
 
 ### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/nikita-nikitins-499290201/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Nikita Nikitins | LinkedIn" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+🌟 Let's build innovative solutions together! Check out my articles on [Medium](https://medium.com/@nikitinsn6).
 
 ## 🔭 I'm currently working on
 

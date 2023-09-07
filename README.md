@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59967050/146984060-b5abf052-16dc-492d-bd84-3b696305511e.png" alt="my banner">
 </p>
@@ -7,15 +6,15 @@
 👨‍💻 Full-Stack Developer | First love: C++ & C# 🚀
 </h2> 
 
-🔨 **Backend**: .NET / PLSQL / Flask
-🧪 **Testing**: xUnit / FluentAssertions / Selenium WebDriver / Moq
-🖌️ **Frontend**: Angular / Blazor / React.js
-🚀 **DevOps**: Docker / GitHub Actions / Azure
-🗃️ **Databases**: MSSQL / MySQL / PostgreSQL / Elasticsearch / Oracle
-📊 **Data**: pandas / SciPy / NumPy / Matplotlib
-🧠 **Machine Learning**: TensorFlow / PyTorch / OpenCV / Scikit-learn
-🏛️ **Architecture**: MVC / MVVM / Clean Architecture / Microservices / SPA / TDD / DDD / CQRS
-📱 **Mobile Development**: Android (Java & Kotlin)
+🔨 **Backend**: .NET / PLSQL / Flask </br>
+🧪 **Testing**: xUnit / FluentAssertions / Selenium WebDriver / Moq </br>
+🖌️ **Frontend**: Angular / Blazor / React.js </br>
+🚀 **DevOps**: Docker / GitHub Actions / Azure </br>
+🗃️ **Databases**: MSSQL / MySQL / PostgreSQL / Elasticsearch / Oracle </br>
+📊 **Data**: pandas / SciPy / NumPy / Matplotlib </br>
+🧠 **Machine Learning**: TensorFlow / PyTorch / OpenCV / Scikit-learn </br>
+🏛️ **Architecture**: MVC / MVVM / Clean Architecture / Microservices / SPA / TDD / DDD / CQRS </br>
+📱 **Mobile Development**: Android (Java & Kotlin) </br>
 
 ### 🤝 Connect with me:
 🌟 Let's build innovative solutions together! Check out my articles on [Medium](https://medium.com/@nikitinsn6).

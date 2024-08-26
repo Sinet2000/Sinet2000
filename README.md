@@ -1,87 +1,82 @@
+# 👨‍💻 Full-Stack Developer | C# 🚀
 
-👨‍💻 **Full-Stack Developer | C#** 🚀
+## **Backend**
+| Technology | Technology | Technology |
+|------------|------------|------------|
+| .NET       | PLSQL      | Flask      |
 
-🔨 **Backend**: 
-- .NET (EF, Dapper, Polly, Mapster, Mapper ...)
-- PLSQL
-- Flask
+## **Testing**
+| Tool             | Tool            | Tool             |
+|------------------|------------------|------------------|
+| xUnit            | NUnit            | FluentAssertions |
+| Selenium WebDriver| Moq              | Postman          |
 
-🧪 **Testing**: 
-- xUnit
-- nUnit
-- FluentAssertions
-- Selenium WebDriver
-- Moq
-- Postman
+## **Frontend**
+| Technology | Technology | Technology |
+|------------|------------|------------|
+| Angular    | Blazor     | React.js   |
 
-🖌️ **Frontend**: 
-- Angular
-- Blazor
-- React.js (learning)
+## **DevOps**
+| Tool            | Tool            | Tool          |
+|-----------------|------------------|---------------|
+| Docker          | Kubernetes       | GitHub Actions |
+| Azure DevOps    |                  |               |
 
-🚀 **DevOps**: 
-- Docker
-- Kubernetes
-- GitHub Actions
-- Azure Devops
+## **Azure Services**
+| Service          | Service          | Service         |
+|------------------|------------------|-----------------|
+| Azure Functions  | Azure Service Bus| Azure Event Grid|
 
-🚀 **Azure Services**: 
-- Azure Functions, Durable Functions
-- Azure Service Bus
-- Azure Event Grid
+## **Infrastructure as Code**
+| Tool         | Tool      | Tool        |
+|--------------|-----------|-------------|
+| ARM          | Bicep     | Terraform   |
 
-🔧 **Infrastructure as Code**: 
-- ARM
-- Bicep
-- Terraform (Learning!)
+## **Databases**
+| Database    | Database   | Database     |
+|-------------|------------|--------------|
+| MSSQL       | MySQL      | PostgreSQL   |
+| Elasticsearch| Oracle    |              |
 
-🗃️ **Databases**: 
-- MSSQL
-- MySQL
-- PostgreSQL
-- Elasticsearch
-- Oracle
+## **Data**
+| Library   | Library  | Library  |
+|-----------|----------|----------|
+| pandas    | SciPy    | NumPy    |
+| Matplotlib|          |          |
 
-📊 **Data**: 
-- pandas
-- SciPy
-- NumPy
-- Matplotlib
+## **Machine Learning**
+| Library   | Library  | Library  |
+|-----------|----------|----------|
+| TensorFlow| PyTorch  | OpenCV   |
+| Scikit-learn|        |          |
 
-🧠 **Machine Learning**: 
-- TensorFlow
-- PyTorch
-- OpenCV
-- Scikit-learn
+## **Architecture**
+| Concept            | Concept            | Concept            |
+|--------------------|--------------------|--------------------|
+| MVC                | MVVM               | Clean Architecture |
+| Microservices      | SPA                | TDD                |
+| DDD                | CQRS               |                    |
 
-🏛️ **Architecture**: 
-- MVC
-- MVVM
-- Clean Architecture
-- Microservices
-- SPA
-- TDD
-- DDD
-- CQRS
+## **Message Brokers**
+| Broker      | Broker      |            |
+|-------------|-------------|------------|
+| RabbitMQ    | Apache Kafka|            |
 
-📬 **Message Brokers**: 
-- RabbitMQ
-- Apache Kafka
+## **Real-Time Tools**
+| Tool        | Tool        |            |
+|-------------|-------------|------------|
+| SignalR     | WebSockets  |            |
 
-🚀 **Real-Time Tools**: 
-- SignalR
-- WebSockets
+## **API Styles**
+| Style       | Style       | Style       |
+|-------------|-------------|-------------|
+| RESTful     | SOAP        | GraphQL     |
+| gRPC        |             |             |
 
-🚀 **API Styles**: 
-- RESTful
-- SOAP
-- GraphQL
-- gRPC
-
-🔐 **API Security (.NET)**: 
-- IdentityServer
-- JWT (JSON Web Tokens)
-- OAuth 2.0
-- Azure AD
+## **API Security (.NET)**
+| Technology       | Technology        | Technology     |
+|------------------|--------------------|----------------|
+| IdentityServer   | JWT (JSON Web Tokens) | OAuth 2.0    |
+| Azure AD         |                    |                |
 
 🌟 Let's build innovative solutions together! Check out my articles on [Medium](https://medium.com/@nikitinsn6).

@@ -1,4 +1,4 @@
-# 👨‍💻 Full-Stack Developer | Azure, .NET, MSSQL, React.js + ( Nest.JS & Blazor) 🚀
+# 👨‍💻 Full-Stack Developer | Azure, .NET, MSSQL, React.js + ( Go, Nest.JS & Blazor) 🚀
 
 Hi there! I'm a passionate **Software Engineer** specializing in **.NET** and **Azure**, with expertise in building **modular integrations** that handle **large-scale data processing**, ensure **data integrity**, and drive **scalability**. My goal is to become a **Solution Architect**, and I’m continuously expanding my knowledge by mastering new tools, technologies, and system design principles. 🚀
 

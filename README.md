@@ -20,6 +20,7 @@ Hi there! I'm a passionate **Software Engineer** specializing in **.NET** and **
 - 🌱 **Currently Learning**:
   - **Go** for high-performance, scalable backends.
   - **NestJS** for building modern, robust APIs.
+  - **Scala** for building data-driven apps
   - **Advanced system architecture** principles to design scalable and maintainable solutions.
   - **AI**: TensorFlow, PyTorch for predictive analytics and automation.
 
@@ -41,7 +42,7 @@ Hi there! I'm a passionate **Software Engineer** specializing in **.NET** and **
   - Azure API Management, Azure Blob Storage, Azure Storage Tables.
   - Monitoring and logging with **Azure Monitor** and **Application Insights**.
 - 🌐 **AWS**:
-  - Experienced in EC2, S3, RDS, and CloudWatch for cross-platform integrations.
+  - Experienced in EC2, S3, SQS (Learning)
 
 ### **Backend Development**
 - 🔧 Frameworks: `ASP.NET Core`, `NestJS`, `FastAPI`.
@@ -103,12 +104,9 @@ Becoming a **Solution Architect** is my ultimate goal. By mastering a diverse se
 ### Microsoft Certifications
 - **AZ-204**: Developing Solutions for Microsoft Azure
 - **AZ-900**: Microsoft Azure Fundamentals
-- **AZ-104**: Microsoft Azure Administrator
-- **AZ-305**: Designing Microsoft Azure Infrastructure Solutions
 
 ### Other Certifications
 - **TensorFlow for Deep Learning** (Udemy)
-- **Amazon Web Services Certified Developer Certification DVA-C02** (AWS)
 - **QA in TestDevLabs**
 
 ### Education

@@ -109,7 +109,7 @@ Becoming a **Solution Architect** is my ultimate goal. By mastering a diverse se
 ### Other Certifications
 - **TensorFlow for Deep Learning** (Udemy)
 - **Amazon Web Services Certified Developer Certification DVA-C02** (AWS)
-- **QA in TestDevLabs** (Udemy)
+- **QA in TestDevLabs**
 
 ### Education
 - **Bachelor of Information Technology**  

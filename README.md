@@ -44,7 +44,7 @@ Hi there! I'm a passionate **Software Engineer** specializing in **.NET** and **
 ### **Backend Development**
 - 🔧 Frameworks: `ASP.NET Core`, `NodeJS`, `FastAPI`.
 - 📬 Messaging: `RabbitMQ`, `Kafka`, 
-- 🛠️ Programming Languages: `.NET`, `JS/TS`, `Go`, **C & C++ (Arduino Projects & University Reaseach)**.
+- 🛠️ Programming Languages: `c#`, `JS/TS`, `Go`, **C & C++ (Arduino Projects & University Reaseach)**.
 
 ### **Frontend Development**
 - 🖥️ Frameworks: `React.js`, `Angular`, `Blazor` & `Next.js`

@@ -19,10 +19,7 @@ Hi there! I'm a passionate **Software Engineer** specializing in **.NET** and **
   - Implemented solutions for **medical projects** involving **sensitive personal data**, ensuring compliance with strict regulations like **GDPR** and **HIPAA**.
 - 🌱 **Currently Learning**:
   - **Go** for high-performance, scalable backends.
-  - **NestJS** for building modern, robust APIs.
-  - **Scala** for building data-driven apps
   - **Advanced system architecture** principles to design scalable and maintainable solutions.
-  - **AI**: TensorFlow, PyTorch for predictive analytics and automation.
 
 ---
 
@@ -45,12 +42,12 @@ Hi there! I'm a passionate **Software Engineer** specializing in **.NET** and **
   - Experienced in EC2, S3, SQS (Learning)
 
 ### **Backend Development**
-- 🔧 Frameworks: `ASP.NET Core`, `NestJS`, `FastAPI`.
-- 📬 Messaging: `RabbitMQ`, `Kafka`.
-- 🛠️ Programming Languages: `.NET (C#)`, `Python`, `Go`, **C & C++ (Arduino Projects & University Reaseach)**.
+- 🔧 Frameworks: `ASP.NET Core`, `NodeJS`, `FastAPI`.
+- 📬 Messaging: `RabbitMQ`, `Kafka`, 
+- 🛠️ Programming Languages: `.NET`, `JS/TS`, `Go`, **C & C++ (Arduino Projects & University Reaseach)**.
 
 ### **Frontend Development**
-- 🖥️ Frameworks: `React.js`, `Angular`.
+- 🖥️ Frameworks: `React.js`, `Angular`, `Blazor` & `Next.js`
 
 ### **Databases**
 - 🗃️ Relational: `MSSQL`, `PostgreSQL`.

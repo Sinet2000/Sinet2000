@@ -1,4 +1,4 @@
-# 👨‍💻 Full-Stack Developer | Azure, .NET, React.JS, ML & CV
+# 👨‍💻 NN Y2K0 | Full-Stack Developer | Azure, .NET, React.JS, ML & CV
 
 Hi there! I'm a passionate **Software Engineer** specializing in **.NET** and **Azure**, with expertise in building **modular integrations** that handle **large-scale data processing**, ensure **data integrity**, and drive **scalability**. My goal is to become a **Solution Architect**, and I’m continuously expanding my knowledge by mastering new tools, technologies, and system design principles. 🚀
 
@@ -126,3 +126,4 @@ Becoming a **Solution Architect** is my ultimate goal. By mastering a diverse se
 - 📖 [Medium](https://medium.com/@nikitinsn6)
 
 Feel free to explore my repositories and projects. I’d love to hear your feedback and collaborate on exciting ideas! 🌟
+
